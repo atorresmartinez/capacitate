@@ -1,0 +1,27 @@
+SISTEMA DE ANTISECUESTROS
+
+OBJETOS:
+-modulo gps
+-arduino
+-modulo wifi
+-modulo alertas y viajes
+-pulsometro
+-display reloj
+-app para movil
+-modulo bluetooth
+
+SERVICIOS:
+ObtenerPosicion()
+GuardarPosicion()
+CrearViaje()
+Borrarviaje()
+CrearAlerta()
+ActivarAlarma
+ValidarPeligro
+DesactivarPeligro
+LlamarAutoridades
+MensajeAutoridades
+
+RESTRICCIONES:
+
+DESEMPEÑO de sistema:
